@@ -20,3 +20,29 @@ font-size: 34px;
     border-top: 2px solid rgb(12, 12, 12);
     margin: 10px 0;
   }
+  .part1 H1 {
+text-align: center;
+text-decoration: underline;
+font-family: serif;
+  }
+  .part1 p {
+    margin-left: 100px;
+      }
+  .esittely1 {
+    float: right;
+    width: 540px;
+    padding-left: 0px;
+    height: 279px;
+  }
+  .text1 {
+    word-break: break-all;
+    hyphens: auto;
+  }
+  .custom-line2{
+    border: none;
+    border-top: 1px solid rgb(91, 79, 79);
+    margin: 10px 0;
+  }
+  .footer {
+text-align: center;
+  }

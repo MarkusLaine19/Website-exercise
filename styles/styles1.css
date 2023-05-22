@@ -32,3 +32,6 @@ font-size: 34px;
   .footer {
 text-align: center;
   }
+  .carousel-caption {
+    background-color: black;
+  }
